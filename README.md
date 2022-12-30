@@ -1,2 +1,2 @@
-# HaoCheng-Xu-Essay
-This is the folder of HaoCheng Xu's previously completed projects and essays.
+# HaoCheng-Xu-Essay Collection
+This is the folder of projects and papers that HaoCheng Xu had previously completed in his university courses and research projects.
